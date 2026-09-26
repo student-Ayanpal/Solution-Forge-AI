@@ -240,3 +240,16 @@ Open the browser at the printed URL (default **`http://localhost:8501`**), regis
 [CrewAI](https://www.crewai.com) · [FastAPI](https://fastapi.tiangolo.com) · [Streamlit](https://streamlit.io) · [MongoDB Atlas](https://www.mongodb.com/atlas) · [Cohere](https://cohere.com) · [Google Gemini](https://deepmind.google/technologies/gemini/) · [Serper.dev](https://serper.dev)
 
 <p align="center">Made with 💙 for the Cognizant Hackathon</p>
+
+---
+
+## 👥 Team: Blueprint Brains
+This project was proudly built collaboratively for the **Cognizant NPN Hackathon**.
+
+A huge thank you to the talented team that made this possible:
+- **Ayan Pal** — Backend Developer
+- **Sudip Mondal** — Backend Developer
+- **Pabitra Samanta** — Orchestration Developer
+- **Rupam Mukherjee** — Frontend UI
+- **Soumyadeep Purkayastha** — Agents Generation
+- **Shloke Biswas** — Agents and Judge Generation
